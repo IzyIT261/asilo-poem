@@ -14,3 +14,7 @@ Life’s battles don’t always go
 To the stronger or faster man.
 But sooner or later, the man who wins
 Is the man who thinks he can.
+
+September 21, 2026 Monday 1:41AM
+experiment for activity 1.2 in PROGCON about branches
+branches is used for tests to not ruin the main branch/project
